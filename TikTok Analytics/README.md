@@ -25,3 +25,8 @@ Here we will be using the unofficial [TikTok API](https://github.com/davidteathe
 
 ### To run Streamlit app 
 - streamlit run app.py 
+
+### Demo page 
+
+![image](https://user-images.githubusercontent.com/69946982/145910617-fc7c092f-1733-4079-8ecb-567658b48d2d.png)
+![image](https://user-images.githubusercontent.com/69946982/145910675-327ce15c-ad8a-4231-bffc-fb063b42e578.png)
