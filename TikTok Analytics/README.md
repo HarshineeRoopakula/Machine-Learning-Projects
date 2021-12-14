@@ -1,5 +1,7 @@
 ## Tik Tok Analytics 
 
+<img src="https://user-images.githubusercontent.com/69946982/145909800-a9056202-8418-4115-9206-5549a293fe73.png" width="200">
+
 Steps involved in designing the Tik Tok Analytics are:
 
 1. Getting tiktok data with Python
