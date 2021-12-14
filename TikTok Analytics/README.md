@@ -28,5 +28,4 @@ Here we will be using the unofficial [TikTok API](https://github.com/davidteathe
 
 ### Demo page 
 
-![image](https://user-images.githubusercontent.com/69946982/145910617-fc7c092f-1733-4079-8ecb-567658b48d2d.png)
-![image](https://user-images.githubusercontent.com/69946982/145910675-327ce15c-ad8a-4231-bffc-fb063b42e578.png)
+https://user-images.githubusercontent.com/69946982/145911341-2bd5c23f-114d-4544-aa41-a095b8555bdc.mov
