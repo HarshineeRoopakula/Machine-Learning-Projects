@@ -4,9 +4,9 @@
 
 Steps involved in designing the Tik Tok Analytics are:
 
-1. Getting tiktok data with Python
-2. Build a data processing pipeline
-3. Creating a Streamlit Dashboard. 
+1. [Getting tiktok data with Python](https://github.com/HarshineeRoopakula/Machine-Learning-Projects/blob/main/TikTok%20Analytics/tiktok/tiktok.py)
+2. [Build a data processing pipeline](https://github.com/HarshineeRoopakula/Machine-Learning-Projects/blob/main/TikTok%20Analytics/tiktok/helpers.py)
+3. [Creating a Streamlit Dashboard](https://github.com/HarshineeRoopakula/Machine-Learning-Projects/blob/main/TikTok%20Analytics/tiktok/app.py)
 
 ### Environment Setup 
 
